@@ -1,0 +1,8 @@
+{
+  "name": "webChatbot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "356ca7ed"
+}
